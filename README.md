@@ -6,7 +6,7 @@ A responsive personal portfolio website built using **HTML, CSS, and JavaScript*
 
 ## 🚀 Live Demo
 
-🔗 https://github.com/tanvisaini9911/Portfolio
+🔗  https://tanvisaini9911.github.io/Portfolio/
 
 ---
 
